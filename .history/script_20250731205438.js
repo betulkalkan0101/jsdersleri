@@ -1,0 +1,10 @@
+
+
+let dizi=
+
+
+let ornek = () => {
+    
+}
+
+
